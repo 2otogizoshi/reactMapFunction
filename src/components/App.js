@@ -1,5 +1,10 @@
 import React from "react";
+import FriendsList from "./FriendsList";
 
-const App = () => <h1>Hello</h1>;
-
+const App = () => (
+  <div>
+    <h1>Hello</h1>;
+    <FriendsList />
+  </div>
+);
 export default App;
