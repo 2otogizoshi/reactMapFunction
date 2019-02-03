@@ -1,2 +1,0 @@
-# reactMapFunction
-Created with CodeSandbox
